@@ -2,7 +2,7 @@
 
 ## Aim:
 
-To demonstrate the use of loops in a Flow Sequence or Flow Chart using Repeat, While, and Do-While activities in UiPath.
+To demonstrate the usee of loops in a Flow Sequence or Flow Chart using Repeat, While, and Do-While activities in UiPath.
 
 ## Equipment Required:
 
